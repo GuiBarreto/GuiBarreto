@@ -2,7 +2,7 @@
 
 
 
-I'm from Brazil and I do Computer Engineering, I'm learning to develop and program, passionate about the best technologies for web and mobile development!
+I'm from Brazil and I do Computer Engineering, learning to develop and program, passionate about the best technologies for web and mobile development!
 
 **_Find me_**
 
