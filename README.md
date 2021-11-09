@@ -2,7 +2,7 @@
 
 
 
-Data Science  undergrad, learning to code. I'm passionate about web technologies and mobile development
+Computer Engineering undergrad, learning to code. I'm passionate about web technologies and mobile development
 
  <div>
   <a href="https://github.com/GuiBarreto">
